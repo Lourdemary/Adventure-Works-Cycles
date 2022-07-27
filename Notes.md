@@ -36,11 +36,12 @@
 
 #### The query editor
 **Home-> Transform data**
-**Query editing tools** ( table transformations, calculated columns, etc)
-**Formula Bar** ( that is M code)
-**Query pane**
-**Table Name and Properties**
-**Applied Steps** (like a macro)
+
+- **Query editing tools** ( table transformations, calculated columns, etc)
+- **Formula Bar** ( that is M code)
+- **Query pane**
+- **Table Name and Properties**
+- **Applied Steps** (like a macro)
 
 #### The Query editing tools
 
@@ -79,6 +80,7 @@ Note : You can access many of these tools in both the “**Transform**” and �
   • **Earliest/Latest**: Evaluates the earliest or latest date from a column as a single value (can only be accessed from the “Transform” menu) 
 
 **Note**: You will almost always want to perform these operations from the “Add Column” menu to build out new fields, rather than transforming an individual date/time column
+
 **Tip** : Load up a table containing a single date column and use Date tools to build out an entire calendar table
 
 
